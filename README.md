@@ -28,3 +28,4 @@ Notes
 - `go build` places the `website` binary into the current directory.
 - `-https=` tells it not to serve over HTTPS, because you don't have the certificates.
 - `-update=false` instructs the server to not pull changes from the remote Git repository.
+- `-Thanks for visit our site :)
